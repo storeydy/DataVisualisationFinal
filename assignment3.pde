@@ -108,6 +108,8 @@ for(int i = 0; i < 11; i++)  //Draw movie data on each month
   
   while(monthNo == i + 1)
   {
+    print("Month No: " + monthNo + "\n");
+    print("I: " + i + " " );
     pushMatrix();
     
     rotate(angleBetweenDays * (dayNumber - 1));    //Rotate an amount proportional to the date that the movie was watched
@@ -124,12 +126,14 @@ for(int i = 0; i < 11; i++)  //Draw movie data on each month
     
     if(cal.getTime().equals(previousDate)) //Current movie watched on the same day as the last movie
     {
+      print("made it here");
       strokeWeight(0.25);    //Draw more star outlines for this month outside the original ones
       stroke(#E8E8E8);
       noFill();
       translate(0, 300);
       rotate(-PI/2);
       rotate(- (angleBetweenDays * (dayNumber - 1) ));
+      print("and here");
       for(int k = 1; k <= 5; k++)
       {
        arc(0, 0, 900+60*k, 900+60*k, 0, PI/6.0); 
@@ -141,6 +145,8 @@ for(int i = 0; i < 11; i++)  //Draw movie data on each month
     
     float differenceAsSaturation = 0;
 
+    print("Movie Name: " + movieNames[index] + " " );
+    
     strokeWeight(2);
     if(differenceBetweenMineAndAverage < 0) {
       differenceAsSaturation = map(differenceBetweenMineAndAverage, -0.1, -1.8, 10, 100);    //Most negative difference between my rating and the average rating is -1.8, choosing R colour with H=360, S -> [20, 100], B=100

@@ -1,94 +1,46 @@
-Watched Date,Name,Year,Letterboxd URI,Runtime (minutes),Rating,Rewatch,Average Rating,Director,Cast 1,Cast 2,Cast 3,Genre 1,Genre 2
-03/01/2021,The Killing Fields,1984,https://boxd.it/1UZt5j,141,4,No,3.8,Roland Joffé,Sam Waterson,Haing S. Ngor,John Malkovich,Drama,War
-05/01/2021,Soul,2020,https://boxd.it/1UZv3T,100,3.5,No,4.1,Pete Docter,Jamie Foxx,Tina Fey,Graham Norton,Family,Comedy
-07/01/2021,"Crack: Cocaine, Corruption & Conspiracy",2021,https://boxd.it/1UZtC3,99,4,No,3.5,Stanley Nelson,Carl Hart,Koe Rodriguez,Nelson George,Documentary,
-10/01/2021,Booksmart,2019,https://boxd.it/1UZuiD,102,3.5,No,3.9,Olivia Wilde,Beanie Feldstein,Kaitlyn Dever,Jessica Williams,Comedy,
-11/01/2021,Shallow Grave,1994,https://boxd.it/1UZsSf,92,4.5,No,3.7,Danny Boyle,Kerry Fox,Christopher Eccleston,Ewan McGregor,Thriller,Crime
-15/01/2021,mid90s,2018,https://boxd.it/1UZuqd,85,4.5,No,3.7,Jonah Hill,Sunny Suljic,Katerine Waterson,Lucas Hedges,Drama,Comedy
-17/01/2021,Fighting with My Family,2019,https://boxd.it/1BcDz5,108,2,No,3.4,Stephen Merchant,Florence Pugh,Vince Vaughn,Nick Frost,Comedy,
-18/01/2021,Trainspotting,1996,https://boxd.it/1Bgocj,94,4.5,Yes,4.1,Danny Boyle,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Drama,Crime
-21/01/2021,Falling Down,1993,https://boxd.it/1BFQC5,113,3.5,No,3.6,Joel Schumacher,Michael Douglas,Robert Duvall,Barbara Hershey,Thriller,Drama
-30/01/2021,Pi,1998,https://boxd.it/1CVAD3,84,3,No,3.6,Darren Aronofsky,Sean Gullette,Mark Margolis,Ben Shenkman,Drama,Mystery
-31/01/2021,Another Round,2020,https://boxd.it/1D6AZl,117,4.5,No,4,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Lans Ranthe,Comedy ,Drama
-01/02/2021,Beautiful Boy,2018,https://boxd.it/1DgOiv,120,4,No,3.7,Felix van Groeningen,Steve Carell,Timothée Chalamet,Maura Tierney,Drama,
-03/02/2021,12 Years a Slave,2013,https://boxd.it/1DxoC9,134,4,No,4.1,Steve McQueen,Chiwetel Ejiofor,Michael Fassbender,Lupita Nyong'o,History,Drama
-10/02/2021,Foxcatcher,2014,https://boxd.it/1EvioZ,134,3.5,No,3.5,Bennett Miller,Steve Carell,Channing Tatum,Mark Ruffalo,Drama,Thriller
-15/02/2021,Misery,1990,https://boxd.it/1FfJxh,107,4,No,3.9,Rob Reiner,James Caan,Kathy Bates,Richard Farnsworth,Drama,Thriller
-16/02/2021,In the Name of the Father,1993,https://boxd.it/1FpQIV,133,4,No,4,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,Emma Thompson,Drama,
-17/02/2021,Captain Fantastic,2016,https://boxd.it/1Fy2Ox,118,3.5,No,3.9,Matt Ross,Viggo Mortensen,Samantha Isler,Annalise Basso,Drama,Adventure
-18/02/2021,Malcolm & Marie,2021,https://boxd.it/1FGanZ,105,3.5,No,3,Sam Levinson,John David Washington,Zendaya,,Drama,Romance
-20/02/2021,Oldboy,2003,https://boxd.it/1G375J,120,4.5,No,4.3,Park Chan-wook,Choi Min-sik,Yoo Ji-tae,Kang Hye-jung,Thriller,Drama
-21/02/2021,We Need to Talk About Kevin,2011,https://boxd.it/1G90EJ,112,4.5,No,3.9,Lynne Ramsay,Tilda Swinton,John C. Reilly,Ezra Miller,Thriller,Drama
-28/02/2021,As Good as It Gets,1997,https://boxd.it/1H5WNb,139,3.5,No,3.5,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Comedy ,Romance
-05/03/2021,Locke,2013,https://boxd.it/1HIClz,85,3.5,No,3.6,Steven Knight,Tom Hardy,Ruth Wilson,Andrew Scott,Drama,Thriller
-11/03/2021,Into the Wild,2007,https://boxd.it/1Iwv47,148,4,No,3.8,Sean Penn,Emile Hirsch,Marcia Gay Harden,William Hurt,Adventure,Drama
-14/03/2021,The Master,2012,https://boxd.it/1IVI6P,150,4,No,4,Paul Thomas Anderson,Joaquin Phoenix,Philip Seymour Hoffman,Amy Adams,Drama,
-15/03/2021,I Saw the Devil,2010,https://boxd.it/1J5Khl,141,3.5,No,4,Kim Jee-woon,Lee Byung-hun,Choi Min-sik,Jeon Kuk Hwan,Thriller,Horror
-21/03/2021,Roma,2018,https://boxd.it/1JUaVL,135,4.5,No,4.1,Alfonso Cuarón,Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Drama,
-27/03/2021,The Hunt,2012,https://boxd.it/1KGeFN,115,4.5,No,4.2,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Drama,
-28/03/2021,Biggie: I Got a Story to Tell,2021,https://boxd.it/1KQusF,97,3,No,3.4,Emmett Malloy,The Notorious B.I.G.,Sean Combs,Faith Evans,Documentary,Music
-29/03/2021,Nas: Time Is Illmatic,2014,https://boxd.it/1KY4LR,74,4,No,3.4,One9,Nas,Alicia Keys,Busta Rhymes,Music,Documentary
-31/03/2021,Bad Trip,2021,https://boxd.it/1LaVGT,84,3.5,No,3.3,Kitao Sakurai,Eric André,Lil Rey Howery,Tiffany Haddish,Comedy,
-02/04/2021,Godzilla vs. Kong,2021,https://boxd.it/1LxLC9,113,3,No,2.9,Adam Wingard,Alexander Skarsgård,Millie Bobby Brown,Rebecca Hall,Action,Adventure
-03/04/2021,Sexy Beast,2000,https://boxd.it/1LHyeD,88,4,No,3.8,Jonathan Glazer,Ray Winstone,Ben Kingsley,Ian McShane,Crime,Thriller
-05/04/2021,The Diving Bell and the Butterfly,2007,https://boxd.it/1M2ho9,112,5,No,4,Julian Schnabel,Mathieu Amalric,Emmanuelle Seigner,Marie-Josée Croze,Drama,
-06/04/2021,Eastern Promises,2007,https://boxd.it/1Mb57X,100,3.5,No,3.8,David Cronenberg,Naomi Watts,Viggo Mortensen,Vincent Cassel,Mystery,Crime
-07/04/2021,In the Tall Grass,2019,https://boxd.it/1MiP37,90,3,No,2.4,Vincenzo Natali,Patrick Wilson,Harrison Gilbertson,Laysla De Oliveira,Thriller,Horror
-10/04/2021,Paterson,2016,https://boxd.it/1MJkQh,118,2.5,No,3.9,Jim Jarmusch,Adam Driver,Golfshifteh Farahani,Barry Shabaka Henley,Drama,Romance
-11/04/2021,I Care a Lot,2020,https://boxd.it/1MUbfN,118,4.5,No,3.1,J Blakeson,Rosamund Pike,Peter Dinklage,Eiza González,Crime,Comedy
-12/04/2021,Collateral,2004,https://boxd.it/1N04Vz,120,4,No,3.8,Michael Mann,Tom Cruise,Jamie Foxx,Jada Pinkett Smith,Drama,Crime
-13/04/2021,Sound of Metal,2019,https://boxd.it/1NcItp,120,4,No,4.1,Darius Marder,Riz Ahmed,Olivia Cooke,Paul Raci,Drama,Music
-14/04/2021,The Art of Self-Defense,2019,https://boxd.it/1NiP73,104,3,No,3.5,Riley Stearns,Jesse Eisenberg,Alessandro Nivola,Imogen Poots,Thriller,Comedy
-18/04/2021,My Octopus Teacher,2020,https://boxd.it/1NUtpv,90,3,No,3.7,Philippa Ehrlich,Craig Foster,Tim Foster,,Documentary,
-19/04/2021,Promising Young Woman,2020,https://boxd.it/1O3Vkr,113,4,No,3.7,Emerald Fennell,Carey Mulligan,Bo Burnham,Alison Brie,Drama,Thriller
-20/04/2021,Hunger,2008,https://boxd.it/1Oc92R,96,4,No,3.9,Steve McQueen,Michael Fassbender,Stuart Graham,Liam Cunningham,Drama,History
-24/04/2021,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,https://boxd.it/1OLqtb,109,3,No,3.3,Cathy Yan,Margot Robbie,Ewan McGregor,Mary Elizabeth Winstead,Action,Crime
-29/04/2021,Doctor Sleep,2019,https://boxd.it/1PsU0J,152,3.5,No,3.4,Mike Flanagan,Ewan McGregor,Kyliegh Curran,Rebecca Ferguson,Thriller Horror,
-03/05/2021,Kill Bill: Vol. 1,2003,https://boxd.it/1Q4991,111,4.5,No,4.1,Quentin Tarantino,Uma Thurman,Lucy Liu,Vivica A. Fox,Action,Crime
-04/05/2021,Kill Bill: Vol. 2,2004,https://boxd.it/1Qcyfz,136,4,No,4,Quentin Tarantino,Uma Thurman,David Carradine,Darryl Hannah,Action,Crime
-07/05/2021,The Death of Stalin,2017,https://boxd.it/1QyR3B,107,3.5,No,3.7,Armando Iannucci,Steve Buscemi,Simon Russell Beale,Paddy Considine,History,Drama
-10/05/2021,The Lobster,2015,https://boxd.it/1QZuNb,118,4,No,3.8,Yorgos Lanthimos,Colin Farrell,Rachel Weisz,Léa Seydoux,Drama,Romance
-16/05/2021,Apocalypse Now,1979,https://boxd.it/1RMqQj,147,4.5,No,4.4,Francis Ford Coppola,Marlon Brando,Robert Duvall,Martin Sheen,War,Drama
-17/05/2021,Prospect,2018,https://boxd.it/1RVDvr,98,3.5,No,3.3,Christopher Caldwall,Sophie Thatcher,Pedro Pascal,Jay Duplass,Science-Fiction,
-18/05/2021,Pusher,1996,https://boxd.it/1S6uTr,105,3.5,No,3.6,Nicolas Winding Refn,Kim Bodnia,Mads Mikkelsen,Laura Drasbæk,Action,Drama
-25/05/2021,The United States vs. Billie Holiday,2021,https://boxd.it/1T1b3P,131,2.5,No,2.7,Lee Daniels,Andra Day,Trevante Rhodes,Garrett Hedlund,Music,Drama
-26/05/2021,Winter's Bone,2010,https://boxd.it/1T1Rob,101,3,No,3.5,Debra Granik,Jennifer Lawrence,John Hawkes,Kevin Breznahan,Drama,
-26/05/2021,Jojo Rabbit,2019,https://boxd.it/1T5JjP,108,3.5,No,4,Taika Waititi,Roman Griffin David,Thomasin McKenzie,Scarlett Johansson,Comedy,Drama
-27/05/2021,The King of Staten Island,2020,https://boxd.it/1TcCM5,137,3.5,No,3.5,Judd Apatow,Pete Davidson,Marisa Tomei,Bill Burr,Comedy,Drama
-09/06/2021,Waves,2019,https://boxd.it/1UZ9Rd,136,4,No,3.8,Trey Edward Shults,Kelvin Harrison Jr.,Taylor Russell,Sterlin K. Brown,Drama,Romance
-12/06/2021,Joker,2019,https://boxd.it/1VmloX,122,4.5,Yes,3.8,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Drama,Thriller
-14/06/2021,Room,2015,https://boxd.it/1VCcB1,118,3.5,No,4,Lenny Abrahamson,Brie Larson,Jacob Trembley,Joan Allen,Drama,Thriller
-15/06/2021,mother!,2017,https://boxd.it/1VKysh,121,4,No,3.5,Darren Aronofsky,Jennifer Lawrence,Javier Bardem,Ed Harris,Horror,Mystery
-16/06/2021,The Florida Project,2017,https://boxd.it/1VRf79,112,3.5,No,4.1,Sean Baker,Willem Dafoe,Brooklynn Prince,Bria Vinaite,Drama,
-22/06/2021,Do the Right Thing,1989,https://boxd.it/1WCEMl,120,3.5,No,4.3,Spike Lee,Danny Aiello,Ossie David,Ruby Dee,Drama,
-26/06/2021,My Left Foot: The Story of Christy Brown,1989,https://boxd.it/1XCRFL,103,3.5,No,3.8,Jim Sheridan,Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Drama,
-10/07/2021,Call Me by Your Name,2017,https://boxd.it/1Z7ap7,132,3,No,4,Luca Guadagnino,Timothée Chalamet,Armie Hammer,Michael Stuhlbarg,Drama,Romance
-14/07/2021,A Quiet Place Part II,2020,https://boxd.it/1ZHiSj,97,3.5,No,3.6,John Krasinski,Emily Blunt,Cillian Murphy,Millicent Simmonds,Thriller,Horror
-05/08/2021,The Suicide Squad,2021,https://boxd.it/24w85J,132,3.5,No,3.7,James Gunn,Margot Robbie,Idris Elba,John Cena,Action,Comedy
-15/08/2021,Memories of Murder,2003,https://boxd.it/24reyd,131,4,No,4.3,Bong Joon-ho,Song Kang-ho,Kim Sang-kyung,Kim Roi-ha,Crime,Thriller
-16/08/2021,Nomadland,2020,https://boxd.it/24Ab7L,108,3.5,No,3.9,Chloé Zhao,Frances McDormand,David Strathairn,Linda May,Drama,Western
-17/08/2021,Philadelphia,1993,https://boxd.it/24GUbP,126,4,No,3.8,Jonathan Demme,Tom Hanks,Denzel Washington,Jason Robards,Drama,
-17/08/2021,Molly's Game,2017,https://boxd.it/24JsO1,140,4,No,3.5,Aaron Sorkin,Jessica Chastain,Idris Elba,Kevin Costner,Crime,Drama
-19/08/2021,The Last Black Man in San Francisco,2019,https://boxd.it/250uWF,121,4,No,4.1,Joe Talbot,Jimmie Fails,Jonathan Majors,Tichina Arnold,Drama,
-30/08/2021,Minari,2020,https://boxd.it/26A8pb,115,4.5,No,4.1,Lee Isaac Chung,Steven Yeun,Han Yeri,Youn Yuh-jung,Drama,
-01/09/2021,People Just Do Nothing: Big in Japan,2021,https://boxd.it/26Qtk9,97,3.5,No,3.5,Jack Clough,Asim Chaudhry,Allan Mustafa,Hugo Chegwin,Comedy,
-02/09/2021,Bo Burnham: Inside,2021,https://boxd.it/26YXTJ,87,2.5,No,4.3,Bo Burnham,Bo Burnham,,,Comedy,
-23/09/2021,The Guard,2011,https://boxd.it/29Q195,96,3.5,Yes,3.6,John Michael McDonagh,Brendan Gleeson,Don Cheadle,Liam Cunningham,Crime,Comedy
-03/10/2021,Prisoners,2013,https://boxd.it/2bgeMv,153,4,Yes,4.2,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Maria Bello,Drama,Thriller
-04/10/2021,The Green Knight,2021,https://boxd.it/2bqeRv,130,3.5,No,3.8,David Lowery,Dev Patel,Alicia Vikander,Joel Edgerton,Adventure,Fantasy
-09/10/2021,Eternal Sunshine of the Spotless Mind,2004,https://boxd.it/2c80lj,108,4.5,No,4.2,Michael Gondry,Jim Carrey,Kate Winslet,Kirsten Dunst,Romance,Science-Fiction
-12/10/2021,Carlito's Way,1993,https://boxd.it/2cuqU9,144,3.5,No,3.9,Brian De Palma,Al Pacino,Sean Penn,Penelope Ann Miller,Crime,Drama
-15/10/2021,Measure of a Man,2018,https://boxd.it/2d3ThP,100,3,No,3,Jim Loach,Blake Cooper,Donald Sutherland,Luke Wilson,Drama,Comedy
-18/10/2021,High Life,2018,https://boxd.it/2dzVCT,113,4,No,3.3,Claire Denis,Robert Pattinson,Juliette Binoche,André Benjamin,Science-Fiction,Thriller
-20/10/2021,Venom: Let There Be Carnage,2021,https://boxd.it/2dQyZ5,97,2.5,No,2.9,Andy Serkis,Tom Hardy,Woody Harrelson,Michelle Williams,Action,Science-Fiction
-21/10/2021,No Time to Die,2021,https://boxd.it/2dXTVx,163,3.5,No,3.6,Cary Joji Fukunaga,Daniel Craig,Léa Seydoux,Rami Malek,Adventure,Action
-25/10/2021,Incendies,2010,https://boxd.it/2eEPYt,131,5,No,4.3,Denis Villeneuve,Lubna Azabel,Mélissa Désormeaux-Poulin,Maxim Gaudette,Drama,Mystery
-26/10/2021,The Many Saints of Newark,2021,https://boxd.it/2eOyC1,120,3.5,No,3,Alan Taylor,Allesandro Nivola,Michael Gandolfini,Leslie Odom Jr.,Drama,Crime
-27/10/2021,Dune,2021,https://boxd.it/2eWgtL,155,4,No,4.1,Denis Villeneuve,Timothée Chalamet,Rebecca Ferguson,Oscar Isaac,Science-Fiction,Action
-02/11/2021,Shame,2011,https://boxd.it/2fZzov,102,3.5,No,3.8,Steve McQueen,Michael Fassbender,Carey Mulligan,James Badge Dale,Drama,
-05/11/2021,Honey Boy,2019,https://boxd.it/2gpKlT,94,4,No,3.8,Alma Har'el,Shia LaBeouf,Lucas Hedges,Noah Lupe,Drama,
-07/11/2021,Free Guy,2021,https://boxd.it/2gLpcv,115,2.5,No,3.2,Shawn Levy,Ryan Reynolds,Jodie Comer,Lil Rey Howery,Comedy,Adventure
-10/11/2021,The Farewell,2019,https://boxd.it/2h3bYB,100,3.5,No,4.1,Lulu Wang,Awkwafina,Tzi Ma,Diana Lin,Drama,Comedy
-19/11/2021,The Handmaiden,2016,https://boxd.it/2iswlJ,145,3,No,4.4,Park Chan-wook,Kim Min-hee,Kim Tae-ri,Ha Jung-woo,Romance,Thriller
-21/11/2021,Gravity,2013,https://boxd.it/2iKwMV,91,3.5,No,3.5,Alfonso Cuarón,Sandra Bullock,George Clooney,Ed Harris,Science-Fiction,Thriller
-24/11/2021,Gone Baby Gone,2007,https://boxd.it/2jdKAR,113,3,No,3.7,Ben Affleck,Casey Affleck,Michelle Monaghan,Morgan Freeman,Crime,Drama
+Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date,Average Rating
+05/01/2023,Glass Onion,2022,https://boxd.it/3E888R,3,No,,04/01/2023,3.5
+09/01/2023,The Menu,2022,https://boxd.it/3FMZsT,3.5,No,,08/01/2023,4
+23/01/2023,Aftersun,2022,https://boxd.it/3KoURL,4,No,,22/01/2023,4.2
+29/01/2023,American Beauty,1999,https://boxd.it/3Mjwtj,4.5,No,,28/01/2023,4.3
+07/02/2023,All Quiet on the Western Front,2022,https://boxd.it/3PakRH,4,No,,06/02/2023,4.5
+16/02/2023,La Haine,1995,https://boxd.it/3RvzGT,4.5,Yes,,15/02/2023,4.7
+25/02/2023,Bullet Train,2022,https://boxd.it/3U4DGh,3.5,No,,24/02/2023,3.7
+11/03/2023,Barbarian,2022,https://boxd.it/3XSZ9h,3.5,No,,10/03/2023,3.9
+12/03/2023,The Whale,2022,https://boxd.it/3YdAA5,4,No,,11/03/2023,3.7
+10/04/2023,Decision to Leave,2022,https://boxd.it/46eU7h,2.5,No,,09/04/2023,4
+12/04/2023,The Unbearable Weight of Massive Talent,2022,https://boxd.it/46Ml9b,3,No,,11/04/2023,3.2
+22/04/2023,Nope,2022,https://boxd.it/49tok1,3.5,No,,21/04/2023,3.6
+21/05/2023,Terminator 2: Judgment Day,1991,https://boxd.it/4gRTJR,4,No,,20/05/2023,4.2
+23/05/2023,Another Round,2020,https://boxd.it/4hm1qN,4.5,Yes,,21/05/2023,4.3
+29/05/2023,White Noise,2022,https://boxd.it/4iIIyX,3.5,No,,28/05/2023,3.7
+11/06/2023,Good Will Hunting,1997,https://boxd.it/4mkSJf,4.5,Yes,,10/06/2023,4.2
+12/06/2023,Triangle of Sadness,2022,https://boxd.it/4mCQFr,4,No,,11/06/2023,3.9
+21/06/2023,Fantastic Mr. Fox,2009,https://boxd.it/4pa5Zv,4,No,,20/06/2023,4.2
+26/06/2023,The Lord of the Rings: The Fellowship of the Ring,2001,https://boxd.it/4qqbPd,4.5,Yes,,24/06/2023,4.6
+26/06/2023,Battle Royale,2000,https://boxd.it/4qzKvl,4,No,,25/06/2023,4.1
+01/07/2023,The Girl with the Dragon Tattoo,2011,https://boxd.it/4rXOMd,4,No,,30/06/2023,4
+04/07/2023,The Fountain,2006,https://boxd.it/4sV9t5,3,No,,03/07/2023,3.6
+05/07/2023,Eighth Grade,2018,https://boxd.it/4tetzv,2.5,No,,04/07/2023,3.8
+22/07/2023,Barbie,2023,https://boxd.it/4yJ3zV,3.5,No,,21/07/2023,4.1
+23/07/2023,Under the Silver Lake,2018,https://boxd.it/4yWXnx,2.5,No,,22/07/2023,3.7
+23/07/2023,Uncut Gems,2019,https://boxd.it/4z39Pl,4,Yes,,22/07/2023,3.9
+07/08/2023,Dune,2021,https://boxd.it/4EGBDZ,4,Yes,,30/07/2023,4
+07/08/2023,Oppenheimer,2023,https://boxd.it/4EGBVJ,4,No,,06/08/2023,4.3
+27/08/2023,The Lord of the Rings: The Two Towers,2002,https://boxd.it/4KYHuJ,5,Yes,,26/08/2023,4.7
+28/08/2023,The Lord of the Rings: The Return of the King,2003,https://boxd.it/4LjRvf,5,Yes,,27/08/2023,4.8
+08/09/2023,No Country for Old Men,2007,https://boxd.it/4OD9j7,4,Yes,,07/09/2023,4.1
+11/09/2023,The Prestige,2006,https://boxd.it/4PziU3,4,Yes,,10/09/2023,4
+12/09/2023,28 Weeks Later,2007,https://boxd.it/4PSvmh,2.5,No,,11/09/2023,2.8
+20/09/2023,Lamb,2021,https://boxd.it/4S0xkL,3.5,No,,13/09/2023,3.6
+20/09/2023,The Deepest Breath,2023,https://boxd.it/4S72nj,4,No,,19/09/2023,4.1
+23/09/2023,Tar,2022,https://boxd.it/4SPpEb,3.5,No,,22/09/2023,4
+25/09/2023,Arrival,2016,https://boxd.it/4TnZoL,4,Yes,,24/09/2023,4.2
+25/09/2023,Sicario,2015,https://boxd.it/4TqMIJ,4,Yes,,24/09/2023,4.3
+04/10/2023,The Creator,2023,https://boxd.it/4Wr8ot,3,No,,03/10/2023,3.5
+14/10/2023,Possession,1981,https://boxd.it/4ZxZXF,3.5,No,,13/10/2023,4
+16/10/2023,Past Lives,2023,https://boxd.it/50dGgh,4,No,,15/10/2023,4.2
+20/10/2023,Beau Is Afraid,2023,https://boxd.it/51u76J,4,No,,19/10/2023,3.5
+23/10/2023,28 Days Later,2002,https://boxd.it/52v4it,4,Yes,,22/10/2023,4.1
+24/10/2023,Suspiria,2018,https://boxd.it/52Qdlj,4,No,,23/10/2023,4
+01/11/2023,Talk to Me,2022,https://boxd.it/55CQwz,3.5,No,,31/10/2023,4.2
