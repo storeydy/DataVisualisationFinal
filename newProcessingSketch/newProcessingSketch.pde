@@ -8,8 +8,11 @@ import processing.pdf.*;
 import java.util.Arrays;
 import http.requests.*;
 
+
 void setup(){
-  
+  WebScraper webScraper;
+  webScraper = new WebScraper();
+  webScraper.printSomething();
   beginRecord(PDF, "output.pdf");
   size(1000, 1000);
   background(20);
@@ -42,7 +45,9 @@ for(int i = 0; i < N; i++)  //Extract data
    
    averageRatings[i] = row.getFloat("Average Rating");
    rewatch[i] = row.getString("Rewatch");
-
+ String watchUrl = row.getString("Letterboxd URI");
+ String actualMovieUrl = watchUrl.replace("/pitbull1", "");
+  averageRatings[i] = WebScraper.getUrlContent(watchUrl);
 }
 }
 catch(Exception ex){
